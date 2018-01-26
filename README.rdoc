@@ -1,0 +1,2 @@
+== README
+This is my first app made during Ruby on Rails training. 
